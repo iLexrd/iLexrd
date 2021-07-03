@@ -10,13 +10,13 @@
 
 ## 🌠 Contact Me
 <div align="center">  
-   <a href="https://discord.com/users/731435923387973642" target="_blank"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" height="35px"></a>
+   <a href="https://discord.com/users/731435923387973642" target="_blank"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white" height="35px"></a>
 </div> 
 
 ## 📊 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=feels0&show_icons=true&theme=dark&hide_border=true" height="150px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feels0&show_icons=true&theme=dark&hide_border=true&layout=compact" height="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=feels0&show_icons=true&theme=midnight-purple&hide_border=true" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feels0&show_icons=true&theme=midnight-purple&hide_border=trut" height="100%">
 </div>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=feels0)
