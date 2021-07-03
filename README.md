@@ -1,5 +1,5 @@
 # 👋 About Me
-- My name is **Umut**. I am **16 years old**. I love **dealing** with coding. I started this business with **Discord bots** and I continue. **JavaScript, Java** etc. I am interested in languages.
+- My name is **Umut**. I am **15 years old**. I love **dealing** with coding. I started this business with **Discord bots** and I continue. **JavaScript, Java** etc. I am interested in languages.
 
 ## 🎓 Languages
 <div align="center">  
