@@ -18,3 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=feels0&show_icons=true&theme=dark&hide_border=true" height="150px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feels0&show_icons=true&theme=dark&hide_border=true&layout=compact" height="100%">
 </div>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=feels0)
+
