@@ -19,5 +19,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feels0&show_icons=true&theme=midnight-purple&hide_border=trut" height="100%">
 </div>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=feels0)
+  ![Profile Views](https://komarev.com/ghpvc/?username=feels0&color=4548A2)
 
