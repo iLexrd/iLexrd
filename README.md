@@ -10,7 +10,7 @@
 
 ## 🌠 Contact Me
 <div align="center">  
-   <a href="https://discord.com/users/731435923387973642" target="_blank"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white" height="35px"></a>
+   <a href="https://discord.com/users/731435923387973642"><img src="https://lanyard-profile-readme.vercel.app/api/731435923387973642"</a>
 </div> 
 
 ## 📊 Github Stats
