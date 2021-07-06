@@ -3,8 +3,8 @@
 
 ## 🎓 Languages
 <div align="center">  
- <a href="https://discord.com/users/731435923387973642" target="_blank"><img src="https://img.shields.io/badge/-Java-edb200?style=flat-square&logo=java&logoColor=white" height="25px"/>
- <a href="https://discord.com/users/731435923387973642" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" height="25px" />
+ <a href="https://discord.com/users/731435923387973642" target="_blank"><img src="https://img.shields.io/badge/-Java-edb200?style=flat-square&logo=java&logoColor=white&color=222222" height="25px"/>
+ <a href="https://discord.com/users/731435923387973642" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white&color=222222" height="25px" />
 </div> 
 
 
