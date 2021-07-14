@@ -3,8 +3,8 @@
 
 ## 🎓 Languages
 <div align="center">  
- <a target="_blank"><img src="https://img.shields.io/badge/-Java-edb200?style=flat-square&logo=java&logoColor=white&color=222222" height="25px"/>
- <a target="_blank"><img src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white&color=222222" height="25px" />
+ <a target="_blank"><img src="https://img.shields.io/badge/-JAVA-edb200?style=flat-square&logo=java&logoColor=white&color=f89820" height="25px"/>
+ <a target="_blank"><img src="https://img.shields.io/badge/-NODE.JS-edb200?style=flat-square&logo=node.js&logoColor=white&color=3C873A" height="25px" />
 </div> 
 
 
