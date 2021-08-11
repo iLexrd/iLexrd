@@ -24,5 +24,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilexrd&show_icons=true&theme=midnight-purple&hide_border=trut" height="100%">
 </div>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=ilexrd&color=4548A2)
+  ![Profile Views](https://komarev.com/ghpvc/?username=iLexrd&color=4548A2)
 
