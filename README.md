@@ -4,6 +4,7 @@
 ## 🎓 Technologies i use
 <div align="center">  
  <a target="_blank"><img src="https://img.shields.io/badge/-JAVASCRIPT-edb200?style=for-the-badge&logo=javascript&logoColor=white&color=edb200" height="25px"/>
+ <a target="_blank"><img src="https://img.shields.io/badge/-TYPESCRIPT-edb200?style=for-the-badge&logo=typescript&logoColor=white&color=007acc" height="25px"/>
  <a target="_blank"><img src="https://img.shields.io/badge/-JAVA-edb200?style=for-the-badge&logo=java&logoColor=white&color=f89820" height="25px"/>
  <a target="_blank"><img src="https://img.shields.io/badge/-NODE.JS-edb200?style=for-the-badge&logo=node.js&logoColor=white&color=3C873A" height="25px" />
  <a target="_blank"><img src="https://img.shields.io/badge/-HTML5-edb200?style=for-the-badge&logo=html5&logoColor=white&color=E34C26" height="25px" />
